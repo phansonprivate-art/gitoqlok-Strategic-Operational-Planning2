@@ -1,0 +1,15 @@
+{
+  "qInfo": {
+    "qId": "6382e2cd-68bb-428a-8683-a652fea5ff15",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "vStart",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "qDefinition": "01.01.2025",
+  "qIsScriptCreated": true
+}

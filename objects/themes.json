@@ -1,0 +1,25 @@
+[
+  {
+    "id": "T0UqKuicsLBeBEE--aand3xH4vp2XspD",
+    "tenantId": "ykPb_iHWgd-VuAkdCzKHSFZmI95bBYya",
+    "userId": "67654b39d5ec15549e7ffdad",
+    "name": "LeitArt",
+    "type": "theme",
+    "qextFilename": "LeitArt Theme",
+    "qextVersion": "1.0.0",
+    "description": "",
+    "version": "2.0.0",
+    "author": "Zlatko Gatev",
+    "tags": [],
+    "file": {
+      "contentType": "application/x-zip-compressed",
+      "contentLength": 3717,
+      "md5": "2d98cdf56e0dd0c4d32427106b7b0031",
+      "fileId": "NL2xj4RorJ-WWX-dIcjne7jBAqVFfVSA",
+      "originalname": "LeitArt Theme.zip"
+    },
+    "createdAt": "2025-01-13T12:40:01.627Z",
+    "updatedAt": "2026-06-19T14:47:43.684Z",
+    "migrationState": "COMPLETED"
+  }
+]

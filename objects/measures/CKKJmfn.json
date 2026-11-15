@@ -1,0 +1,34 @@
+{
+  "qInfo": {
+    "qId": "CKKJmfn",
+    "qType": "measure"
+  },
+  "qMeasure": {
+    "qLabel": "Rechnungswert",
+    "qDef": "sum(\r\n\t{<\n    //f503_SubDocumentType-={5,200}, //nur Rechnungen (ohne Abschlagsrechnungen & Proforma Rechnungen\n    Status={\"Normal\"}\t\t\t\t//keine Storno-Rechnungen mit anzeigen\n    >} \n    Rechnung_Netto)",
+    "qGrouping": "N",
+    "qExpressions": [],
+    "qActiveExpression": 0,
+    "qNumFormat": {
+      "qType": "M",
+      "qnDec": 2,
+      "qUseThou": 0,
+      "qFmt": "#.##0 €;-#.##0 €",
+      "qDec": ",",
+      "qThou": "."
+    },
+    "qOrigin": "PROGRAM",
+    "coloring": {
+      "baseColor": {
+        "color": "#4477aa",
+        "index": 6
+      }
+    },
+    "isCustomFormatted": false
+  },
+  "qMetaDef": {
+    "title": "Rechnungswert",
+    "description": "",
+    "tags": []
+  }
+}

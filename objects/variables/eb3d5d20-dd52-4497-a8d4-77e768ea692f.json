@@ -1,0 +1,14 @@
+{
+  "qInfo": {
+    "qId": "eb3d5d20-dd52-4497-a8d4-77e768ea692f",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "vUntergruppe1",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "tags": []
+}

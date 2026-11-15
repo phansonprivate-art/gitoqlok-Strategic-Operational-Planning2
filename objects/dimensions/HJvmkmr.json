@@ -1,0 +1,27 @@
+{
+  "qInfo": {
+    "qId": "HJvmkmr",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "UG1_Name1"
+    ],
+    "qFieldLabels": [
+      "Untergruppe 1"
+    ],
+    "qAlias": "Untergruppe 1",
+    "qOrigin": "PROGRAM",
+    "title": "Untergruppe 1",
+    "coloring": {
+      "changeHash": "0.07689310250510228",
+      "hasValueColors": false
+    }
+  },
+  "qMetaDef": {
+    "title": "Untergruppe 1",
+    "description": "",
+    "tags": []
+  }
+}

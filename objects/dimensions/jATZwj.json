@@ -1,0 +1,27 @@
+{
+  "qInfo": {
+    "qId": "jATZwj",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "=Kunde_Name_1"
+    ],
+    "qFieldLabels": [
+      "Kunde"
+    ],
+    "qAlias": "Kunde",
+    "qOrigin": "PROGRAM",
+    "title": "Kunde",
+    "coloring": {
+      "changeHash": "0.04254608131640025",
+      "hasValueColors": false
+    }
+  },
+  "qMetaDef": {
+    "title": "Kunde",
+    "description": "",
+    "tags": []
+  }
+}

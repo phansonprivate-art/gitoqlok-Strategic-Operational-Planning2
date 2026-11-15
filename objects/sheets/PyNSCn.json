@@ -1,0 +1,800 @@
+{
+  "qProperty": {
+    "qInfo": {
+      "qId": "PyNSCn",
+      "qType": "sheet"
+    },
+    "qMetaDef": {
+      "title": "Home",
+      "description": "",
+      "qloudfriendTag": "public"
+    },
+    "creationDate": "2025-01-27T05:52:10.618Z",
+    "rank": 0,
+    "thumbnail": {
+      "qStaticContentUrlDef": {}
+    },
+    "columns": 24,
+    "rows": 12,
+    "cells": [
+      {
+        "name": "CTDjbG",
+        "type": "sn-layout-container",
+        "col": 0,
+        "row": 2,
+        "colspan": 24,
+        "rowspan": 10,
+        "bounds": {
+          "y": 16.666666666666664,
+          "x": 0,
+          "width": 100,
+          "height": 83.33333333333334
+        }
+      },
+      {
+        "name": "jBNMmh",
+        "type": "text-image",
+        "col": 2,
+        "row": 0,
+        "colspan": 20,
+        "rowspan": 2,
+        "bounds": {
+          "y": 0,
+          "x": 8.333333333333332,
+          "width": 83.33333333333334,
+          "height": 16.666666666666664
+        }
+      },
+      {
+        "name": "pNZna",
+        "type": "Leitart Hello World",
+        "visible": true,
+        "col": 22,
+        "row": 0,
+        "colspan": 2,
+        "rowspan": 2,
+        "bounds": {
+          "y": 0,
+          "x": 91.66666666666666,
+          "width": 8.333333333333332,
+          "height": 16.666666666666664
+        }
+      }
+    ],
+    "customRowBase": 12,
+    "gridResolution": "small",
+    "layoutOptions": {
+      "mobileLayout": "LIST"
+    },
+    "qChildListDef": {
+      "qData": {
+        "title": "/title"
+      }
+    },
+    "gridMode": "edit"
+  },
+  "qChildren": [
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "CTDjbG",
+          "qType": "sn-layout-container"
+        },
+        "qMetaDef": {},
+        "objects": [
+          {
+            "childRefId": "pBJnKjXs",
+            "label": "Overview",
+            "bounds": {
+              "height": 48.69067,
+              "width": 17.58063,
+              "x": 1.49846,
+              "y": 23.85434
+            },
+            "condition": {
+              "qValueExpression": {}
+            }
+          },
+          {
+            "childRefId": "ppNnpNZa",
+            "label": "Delta",
+            "bounds": {
+              "height": 48.69067,
+              "width": 17.58044,
+              "x": 26.71455,
+              "y": 23.85434
+            },
+            "condition": {
+              "qValueExpression": {}
+            }
+          },
+          {
+            "childRefId": "ExMbyDK",
+            "label": "Scenarios",
+            "bounds": {
+              "height": 48.69067,
+              "width": 17.58044,
+              "x": 54.23519,
+              "y": 23.85434
+            },
+            "condition": {
+              "qValueExpression": {}
+            }
+          },
+          {
+            "childRefId": "pSRyqwwZ",
+            "label": "Planning",
+            "bounds": {
+              "height": 48.69067,
+              "width": 17.5816,
+              "x": 80.19901,
+              "y": 23.85434
+            },
+            "condition": {
+              "qValueExpression": {}
+            }
+          }
+        ],
+        "showTitles": true,
+        "title": "",
+        "subtitle": "",
+        "footnote": "",
+        "disableNavMenu": false,
+        "showDetails": false,
+        "showDetailsExpression": false,
+        "components": [
+          {
+            "key": "general",
+            "bgColor": {
+              "color": {
+                "index": 5,
+                "color": "#3e566f",
+                "alpha": 1
+              }
+            }
+          }
+        ],
+        "constrainToContainer": false,
+        "showGridLines": false,
+        "gridRowCount": 24,
+        "gridColumnCount": 36,
+        "snapToGrid": false,
+        "visualization": "sn-layout-container",
+        "qChildListDef": {
+          "qData": {
+            "visualization": "/visualization",
+            "qExtendsId": "/qExtendsId",
+            "title": "/title",
+            "childRefId": "/childRefId"
+          }
+        },
+        "version": "3.11.1",
+        "extensionMeta": {
+          "translationKey": "",
+          "icon": "layout-container",
+          "iconChar": "puzzle",
+          "isLibraryItem": true,
+          "visible": true,
+          "IconDefinition": {},
+          "name": "Layout container",
+          "description": "The layout container object has a canvas that can hold multiple objects. In this container you can freely move objects around, as well as position the objects on top of each other or overlapping.",
+          "template": "sn-layout-container",
+          "iconPath": "M14.5,9 L13,9 L13,3.3 C13,3.1 12.9,3 12.7,3 L8,3 L8,1.5 C8,0.7 7.3,0 6.5,0 C5.7,0 5,0.7 5,1.5 L5,3 L0.3,3 C0.1,3 0,3.1 0,3.3 L0,9 L1.5,9 C2.3,9 3,9.7 3,10.5 C3,11.3 2.3,12 1.5,12 L0,12 L0,15.7 C0,15.9 0.1,16 0.3,16 L5,16 L5,14.5 C5,13.7 5.7,13 6.5,13 C7.3,13 8,13.7 8,14.5 L8,16 L12.7,16 C12.9,16 13,15.9 13,15.7 L13,12 L14.5,12 C15.3,12 16,11.3 16,10.5 C16,9.7 15.3,9 14.5,9 Z",
+          "isThirdParty": true,
+          "version": "3.11.1",
+          "author": "QlikTech International AB",
+          "type": "visualization",
+          "supernova": true,
+          "bundle": {
+            "id": "qlik-dashboard-bundle",
+            "name": "Qlik Dashboard bundle",
+            "description": "This is a set of supported objects that will facilitate dashboard creation in Qlik Sense. These can be used in addition to the objects found under \"Charts\".\n\nFor limitations and support conditions, see the documentation."
+          },
+          "installer": "QlikExtensionBundler"
+        }
+      },
+      "qChildren": [
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "8c110a5b-1adf-4cef-baf6-157cf050da1b",
+              "qType": "action-button"
+            },
+            "qMetaDef": {},
+            "runtimeExpressionEvaluation": false,
+            "actions": [],
+            "navigation": {
+              "action": "goToSheet",
+              "appId": "",
+              "sheet": "pjWjy",
+              "chartId": "",
+              "story": "",
+              "websiteUrl": "",
+              "sameWindow": false,
+              "odagLink": ""
+            },
+            "useEnabledCondition": false,
+            "enabledCondition": 1,
+            "showTitles": false,
+            "title": "",
+            "subtitle": "",
+            "footnote": "",
+            "disableNavMenu": true,
+            "showDetails": false,
+            "showDetailsExpression": false,
+            "style": {
+              "label": "",
+              "showLabel": false,
+              "icon": {
+                "useIcon": false,
+                "iconType": "",
+                "position": "left"
+              },
+              "font": {
+                "fontFamily": "Source Sans Pro",
+                "useColorExpression": false,
+                "color": {
+                  "index": -1,
+                  "color": "#ffffff"
+                },
+                "colorExpression": "",
+                "size": 0.5,
+                "sizeFixed": 20,
+                "sizeBehavior": "responsive",
+                "style": {
+                  "bold": true,
+                  "italic": false,
+                  "underline": false
+                },
+                "align": "center"
+              },
+              "background": {
+                "useImage": false,
+                "useColorExpression": true,
+                "colorExpression": "transparent",
+                "mode": "media",
+                "url": {
+                  "qStaticContentUrlDef": {
+                    "qUrl": "/api/v1/apps/3ef7b76b-91d3-46ac-87ae-8718d4232648/media/files/planning.png"
+                  }
+                }
+              },
+              "border": {
+                "useColorExpression": false,
+                "color": {
+                  "index": -1,
+                  "color": "none"
+                },
+                "colorExpression": "",
+                "useBorder": false,
+                "radius": 0,
+                "width": 0
+              }
+            },
+            "components": [
+              {
+                "key": "general",
+                "bgColor": {
+                  "color": {
+                    "index": 0,
+                    "color": "none",
+                    "alpha": 1
+                  }
+                }
+              }
+            ],
+            "visualization": "action-button",
+            "version": "1.44.5",
+            "childRefId": "pSRyqwwZ"
+          },
+          "qChildren": []
+        },
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "82ac72c9-a07b-466a-bc29-5b94b227ab24",
+              "qType": "action-button"
+            },
+            "qMetaDef": {},
+            "runtimeExpressionEvaluation": false,
+            "actions": [],
+            "navigation": {
+              "action": "goToSheet",
+              "appId": "",
+              "sheet": "f986e21a-31c6-49e8-aee5-5eea5778babc",
+              "chartId": "",
+              "story": "",
+              "websiteUrl": "",
+              "sameWindow": false,
+              "odagLink": ""
+            },
+            "useEnabledCondition": false,
+            "enabledCondition": 1,
+            "showTitles": false,
+            "title": "",
+            "subtitle": "",
+            "footnote": "",
+            "disableNavMenu": true,
+            "showDetails": false,
+            "showDetailsExpression": false,
+            "style": {
+              "label": "",
+              "showLabel": false,
+              "icon": {
+                "useIcon": false,
+                "iconType": "",
+                "position": "left"
+              },
+              "font": {
+                "fontFamily": "Source Sans Pro",
+                "useColorExpression": false,
+                "color": {
+                  "index": -1,
+                  "color": "#ffffff"
+                },
+                "colorExpression": "",
+                "size": 0.5,
+                "sizeFixed": 20,
+                "sizeBehavior": "responsive",
+                "style": {
+                  "bold": true,
+                  "italic": false,
+                  "underline": false
+                },
+                "align": "center"
+              },
+              "background": {
+                "useColorExpression": true,
+                "color": {
+                  "index": 0,
+                  "color": "none",
+                  "alpha": 1
+                },
+                "colorExpression": "transparent",
+                "mode": "media",
+                "useImage": false,
+                "url": {
+                  "qStaticContentUrlDef": {
+                    "qUrl": "/api/v1/apps/3ef7b76b-91d3-46ac-87ae-8718d4232648/media/files/overview (1).png"
+                  }
+                },
+                "size": "auto",
+                "position": "centerCenter"
+              },
+              "border": {
+                "useColorExpression": false,
+                "color": {
+                  "index": -1,
+                  "color": "none"
+                },
+                "colorExpression": "",
+                "useBorder": false,
+                "radius": 0,
+                "width": 0
+              }
+            },
+            "components": [
+              {
+                "key": "general",
+                "bgColor": {
+                  "color": {
+                    "index": 0,
+                    "color": "none",
+                    "alpha": 1
+                  }
+                }
+              }
+            ],
+            "visualization": "action-button",
+            "version": "1.44.5",
+            "childRefId": "pBJnKjXs"
+          },
+          "qChildren": []
+        },
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "6f221dc1-1bf4-4225-b4cc-0bfd67488a3d",
+              "qType": "action-button"
+            },
+            "qMetaDef": {},
+            "runtimeExpressionEvaluation": false,
+            "actions": [],
+            "navigation": {
+              "action": "goToSheet",
+              "appId": "",
+              "sheet": "tJAjR",
+              "chartId": "",
+              "story": "",
+              "websiteUrl": "",
+              "sameWindow": false,
+              "odagLink": ""
+            },
+            "useEnabledCondition": false,
+            "enabledCondition": 1,
+            "showTitles": false,
+            "title": "",
+            "subtitle": "",
+            "footnote": "",
+            "disableNavMenu": true,
+            "showDetails": false,
+            "showDetailsExpression": false,
+            "style": {
+              "label": "",
+              "showLabel": false,
+              "icon": {
+                "useIcon": false,
+                "iconType": "",
+                "position": "left"
+              },
+              "font": {
+                "fontFamily": "Source Sans Pro",
+                "useColorExpression": false,
+                "color": {
+                  "index": -1,
+                  "color": "#ffffff"
+                },
+                "colorExpression": "",
+                "size": 0.5,
+                "sizeFixed": 20,
+                "sizeBehavior": "responsive",
+                "style": {
+                  "bold": true,
+                  "italic": false,
+                  "underline": false
+                },
+                "align": "center"
+              },
+              "background": {
+                "useColorExpression": true,
+                "color": {
+                  "index": 0,
+                  "color": "none",
+                  "alpha": 1
+                },
+                "colorExpression": "transparent",
+                "mode": "media",
+                "useImage": false,
+                "url": {
+                  "qStaticContentUrlDef": {
+                    "qUrl": "/api/v1/apps/3ef7b76b-91d3-46ac-87ae-8718d4232648/media/files/delta.png"
+                  }
+                },
+                "size": "auto",
+                "position": "centerCenter"
+              },
+              "border": {
+                "useColorExpression": false,
+                "color": {
+                  "index": -1,
+                  "color": "none"
+                },
+                "colorExpression": "",
+                "useBorder": false,
+                "radius": 0,
+                "width": 0
+              }
+            },
+            "components": [
+              {
+                "key": "general",
+                "bgColor": {
+                  "color": {
+                    "index": 0,
+                    "color": "none",
+                    "alpha": 1
+                  }
+                }
+              }
+            ],
+            "visualization": "action-button",
+            "version": "1.44.5",
+            "childRefId": "ppNnpNZa"
+          },
+          "qChildren": []
+        },
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "52c8aeff-55af-4e83-be0f-a80d527af5d9",
+              "qType": "action-button"
+            },
+            "qMetaDef": {},
+            "runtimeExpressionEvaluation": false,
+            "actions": [],
+            "navigation": {
+              "action": "goToSheet",
+              "appId": "",
+              "sheet": "bgDCuy",
+              "chartId": "",
+              "story": "",
+              "websiteUrl": "",
+              "sameWindow": false,
+              "odagLink": ""
+            },
+            "useEnabledCondition": false,
+            "enabledCondition": 1,
+            "showTitles": false,
+            "title": "",
+            "subtitle": "",
+            "footnote": "",
+            "disableNavMenu": true,
+            "showDetails": false,
+            "showDetailsExpression": false,
+            "style": {
+              "label": "",
+              "showLabel": false,
+              "icon": {
+                "useIcon": false,
+                "iconType": "",
+                "position": "left"
+              },
+              "font": {
+                "fontFamily": "Source Sans Pro",
+                "useColorExpression": false,
+                "color": {
+                  "index": -1,
+                  "color": "#ffffff"
+                },
+                "colorExpression": "",
+                "size": 0.5,
+                "sizeFixed": 20,
+                "sizeBehavior": "responsive",
+                "style": {
+                  "bold": true,
+                  "italic": false,
+                  "underline": false
+                },
+                "align": "center"
+              },
+              "background": {
+                "useColorExpression": true,
+                "color": {
+                  "index": 0,
+                  "color": "none",
+                  "alpha": 1
+                },
+                "colorExpression": "transparent",
+                "mode": "media",
+                "useImage": false,
+                "url": {
+                  "qStaticContentUrlDef": {
+                    "qUrl": "/api/v1/apps/3ef7b76b-91d3-46ac-87ae-8718d4232648/media/files/scenarios.png"
+                  }
+                },
+                "size": "auto",
+                "position": "centerCenter"
+              },
+              "border": {
+                "useColorExpression": false,
+                "color": {
+                  "index": -1,
+                  "color": "none"
+                },
+                "colorExpression": "",
+                "useBorder": false,
+                "radius": 0,
+                "width": 0
+              }
+            },
+            "components": [
+              {
+                "key": "general",
+                "bgColor": {
+                  "color": {
+                    "index": 0,
+                    "color": "none",
+                    "alpha": 1
+                  }
+                }
+              }
+            ],
+            "visualization": "action-button",
+            "version": "1.44.5",
+            "childRefId": "ExMbyDK"
+          },
+          "qChildren": []
+        }
+      ]
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "jBNMmh",
+          "qType": "text-image"
+        },
+        "qMetaDef": {},
+        "qHyperCubeDef": {
+          "qDimensions": [],
+          "qMeasures": [],
+          "qInterColumnSortOrder": [],
+          "qInitialDataFetch": [],
+          "qReductionMode": "N",
+          "qMode": "S",
+          "qPseudoDimPos": -1,
+          "qNoOfLeftDims": -1,
+          "qMaxStackedCells": 5000,
+          "qCalcCond": {},
+          "qTitle": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qColumnOrder": [],
+          "qExpansionState": [],
+          "qDynamicScript": [],
+          "qSuppressMeasureTotals": true,
+          "qLayoutExclude": {
+            "qHyperCubeDef": {
+              "qDimensions": [],
+              "qMeasures": [],
+              "qInterColumnSortOrder": [],
+              "qInitialDataFetch": [],
+              "qReductionMode": "N",
+              "qMode": "S",
+              "qPseudoDimPos": -1,
+              "qNoOfLeftDims": -1,
+              "qMaxStackedCells": 5000,
+              "qCalcCond": {},
+              "qTitle": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qColumnOrder": [],
+              "qExpansionState": [],
+              "qDynamicScript": []
+            }
+          }
+        },
+        "script": "",
+        "showTitles": false,
+        "title": "",
+        "subtitle": "",
+        "footnote": "",
+        "disableNavMenu": false,
+        "showDetails": true,
+        "showDetailsExpression": false,
+        "components": null,
+        "responsive": "all",
+        "markdown": "^[%[_Data+ Planning Tool_](4)](center)",
+        "images": [],
+        "background": {
+          "isUsed": true,
+          "size": "auto",
+          "position": "centerCenter",
+          "url": {
+            "qStaticContentUrlDef": {
+              "qUrl": "/api/v1/apps/3ef7b76b-91d3-46ac-87ae-8718d4232648/media/files/leitart_logo_grau.png"
+            }
+          }
+        },
+        "visualization": "text-image"
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "pNZna",
+          "qType": "Leitart Hello World"
+        },
+        "qMetaDef": {},
+        "props": {
+          "buttonTitle": "",
+          "modalText": "Hello Leitart",
+          "closeButtonText": "Close",
+          "dockButton": true,
+          "dockButtonClassList": "MuiButtonBase-root MuiButton-root MuiButton-colorInherit MuiButton-sizeMedium css-16vd0cy",
+          "dockAnimationSpeed": "slow",
+          "dockPollIntervalSeconds": 5,
+          "dockBlinkOnRefresh": true,
+          "language": "en",
+          "backgroundColor": "#FFFFFF",
+          "customCss": ".hello_dataplus_ext .customClass {}",
+          "settingsVersion": 1
+        },
+        "showTitles": false,
+        "title": "",
+        "subtitle": "",
+        "footnote": "",
+        "disableNavMenu": true,
+        "showDetails": true,
+        "showDetailsExpression": false,
+        "qHyperCubeDef": {
+          "qDimensions": [],
+          "qMeasures": [],
+          "qInterColumnSortOrder": [],
+          "qInitialDataFetch": [
+            {
+              "qLeft": 0,
+              "qTop": 0,
+              "qWidth": 1,
+              "qHeight": 10000
+            }
+          ],
+          "qReductionMode": "N",
+          "qMode": "S",
+          "qPseudoDimPos": -1,
+          "qNoOfLeftDims": -1,
+          "qMaxStackedCells": 5000,
+          "qCalcCond": {},
+          "qTitle": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qColumnOrder": [],
+          "qExpansionState": [],
+          "qDynamicScript": [],
+          "qLayoutExclude": {
+            "qHyperCubeDef": {
+              "qDimensions": [],
+              "qMeasures": [],
+              "qInterColumnSortOrder": [],
+              "qInitialDataFetch": [],
+              "qReductionMode": "N",
+              "qMode": "S",
+              "qPseudoDimPos": -1,
+              "qNoOfLeftDims": -1,
+              "qMaxStackedCells": 5000,
+              "qCalcCond": {},
+              "qTitle": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qColumnOrder": [],
+              "qExpansionState": [],
+              "qDynamicScript": []
+            }
+          }
+        },
+        "visualization": "Leitart Hello World",
+        "version": 1,
+        "extensionMeta": {
+          "translationKey": "",
+          "icon": "distributionplot",
+          "iconChar": "puzzle",
+          "isLibraryItem": true,
+          "visible": true,
+          "name": "Hello World",
+          "description": "Hello world example extension\nv1.0.0 (2026-10-22)",
+          "template": "Leitart Hello World",
+          "iconPath": "M14.5,9 L13,9 L13,3.3 C13,3.1 12.9,3 12.7,3 L8,3 L8,1.5 C8,0.7 7.3,0 6.5,0 C5.7,0 5,0.7 5,1.5 L5,3 L0.3,3 C0.1,3 0,3.1 0,3.3 L0,9 L1.5,9 C2.3,9 3,9.7 3,10.5 C3,11.3 2.3,12 1.5,12 L0,12 L0,15.7 C0,15.9 0.1,16 0.3,16 L5,16 L5,14.5 C5,13.7 5.7,13 6.5,13 C7.3,13 8,13.7 8,14.5 L8,16 L12.7,16 C12.9,16 13,15.9 13,15.7 L13,12 L14.5,12 C15.3,12 16,11.3 16,10.5 C16,9.7 15.3,9 14.5,9 Z",
+          "isThirdParty": true,
+          "id": "aDlKXxxHK4YvpYUmJZM2vroMLvqLvsH_",
+          "tenantId": "ykPb_iHWgd-VuAkdCzKHSFZmI95bBYya",
+          "userId": "6aabded0b9c2cd32e4c49ba8",
+          "type": "visualization",
+          "qextFilename": "Leitart Hello World",
+          "qextVersion": "1.0.0",
+          "loadpath": "Leitart Hello World",
+          "version": "2.0.0",
+          "author": "Leitart",
+          "tags": [],
+          "checksum": null,
+          "bundled": false,
+          "supernova": false,
+          "bundle": {
+            "id": "Leitart",
+            "name": "Leitart",
+            "description": "LeitArt extensions"
+          },
+          "file": {
+            "contentType": "application/zip",
+            "contentLength": 56102,
+            "md5": "e6b15492aee2e859a66a1a6771c4b886",
+            "fileId": "J72sZFnpt8obo9WUQeE1D6kX-6narv0b",
+            "originalname": "Leitart Hello World_1.0.0.zip"
+          },
+          "createdAt": "2026-09-25T09:09:26.985Z",
+          "updatedAt": "2026-10-22T13:56:34.498Z",
+          "migrationState": "COMPLETED",
+          "cloud": true
+        }
+      },
+      "qChildren": []
+    }
+  ]
+}

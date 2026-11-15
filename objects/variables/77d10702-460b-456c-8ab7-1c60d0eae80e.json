@@ -1,0 +1,15 @@
+{
+  "qInfo": {
+    "qId": "77d10702-460b-456c-8ab7-1c60d0eae80e",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "vAnsicht",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "qDefinition": "1",
+  "tags": []
+}

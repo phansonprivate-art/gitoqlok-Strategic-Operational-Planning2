@@ -1,0 +1,15 @@
+{
+  "qInfo": {
+    "qId": "b99dae3f-370d-496b-a529-58bb26405017",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "vAnzeige_Delta1",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "qDefinition": "1",
+  "tags": []
+}

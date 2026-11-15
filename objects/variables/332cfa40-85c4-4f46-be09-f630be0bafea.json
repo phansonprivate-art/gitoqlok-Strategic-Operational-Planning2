@@ -1,0 +1,14 @@
+{
+  "qInfo": {
+    "qId": "332cfa40-85c4-4f46-be09-f630be0bafea",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "vVerantwortlich",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "tags": []
+}

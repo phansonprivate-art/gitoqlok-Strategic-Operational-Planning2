@@ -1,0 +1,14 @@
+{
+  "qInfo": {
+    "qId": "80ce71f2-52ca-4a99-a854-fb738cbfe323",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "vHauptgruppe",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "tags": []
+}

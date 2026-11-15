@@ -1,0 +1,14 @@
+{
+  "qInfo": {
+    "qId": "20aaddd3-de44-46c1-8094-d12d0f17a1d9",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "vSHAP_Value",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "tags": []
+}

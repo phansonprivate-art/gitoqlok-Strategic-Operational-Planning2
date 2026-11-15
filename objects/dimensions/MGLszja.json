@@ -1,0 +1,27 @@
+{
+  "qInfo": {
+    "qId": "MGLszja",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "UG2_Name1"
+    ],
+    "qFieldLabels": [
+      "Untergruppe 2"
+    ],
+    "qAlias": "Untergruppe 2",
+    "qOrigin": "PROGRAM",
+    "title": "Untergruppe 2",
+    "coloring": {
+      "changeHash": "0.04561719516128537",
+      "hasValueColors": false
+    }
+  },
+  "qMetaDef": {
+    "title": "Untergruppe 2",
+    "description": "",
+    "tags": []
+  }
+}

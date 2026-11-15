@@ -1,0 +1,14 @@
+{
+  "qInfo": {
+    "qId": "d66decc6-c0b4-4397-b796-7c0c4ebc3fb4",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "vSzenarioID",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "tags": []
+}

@@ -1,0 +1,14 @@
+{
+  "qInfo": {
+    "qId": "51eadb3f-8777-4906-aac6-7da1e84e624f",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "vID_Iframe",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "tags": []
+}

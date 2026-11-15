@@ -1,0 +1,39 @@
+{
+  "qInfo": {
+    "qId": "pQMFspK",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "H",
+    "qFieldDefs": [
+      "%Hauptgruppe_ID",
+      "%Untergruppe1_ID",
+      "%Untergruppe2_ID",
+      "%Artikel_ID"
+    ],
+    "qFieldLabels": [
+      "Hauptgruppe",
+      "Untergruppe1",
+      "Untergruppe2",
+      "Artikelnummer"
+    ],
+    "qAlias": "Hauptgruppe > Untergruppe1 > Untergruppe2 > Artikelnummer",
+    "qOrigin": "PROGRAM",
+    "title": "Hauptgruppe > Untergruppe1 > Untergruppe2 > Artikelnummer",
+    "descriptionExpression": {
+      "qStringExpression": {
+        "qExpr": "'Hauptgruppe > Untergruppe1 > Untergruppe2 > Artikelnummer'"
+      }
+    },
+    "coloring": {
+      "changeHash": "0.5466254432360389",
+      "hasValueColors": false,
+      "colorMapRef": "pQMFspK"
+    }
+  },
+  "qMetaDef": {
+    "title": "Hauptgruppe > Untergruppe1 > Untergruppe2 > Artikelnummer",
+    "description": "",
+    "tags": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "qTitle": "Strategic & Operational Planning",
+  "qThumbnail": {
+    "qUrl": "/api/v1/apps/3ef7b76b-91d3-46ac-87ae-8718d4232648/media/files/image.png"
+  },
+  "qUsage": "ANALYTICS",
+  "encrypted": true,
+  "id": "3ef7b76b-91d3-46ac-87ae-8718d4232648",
+  "published": false,
+  "publishTime": "2026-10-23T09:31:05.880Z",
+  "originAppId": "8eb9496e-967b-4381-a5ed-8d2150880ecc",
+  "owner": "wss1ssuvx4iy",
+  "ownerId": "6526d774914540180826a278",
+  "spaceId": "669f70e23de29f57106b240e",
+  "_resourcetype": "app"
+}

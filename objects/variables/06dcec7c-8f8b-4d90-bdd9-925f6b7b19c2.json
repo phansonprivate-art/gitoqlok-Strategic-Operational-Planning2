@@ -1,0 +1,14 @@
+{
+  "qInfo": {
+    "qId": "06dcec7c-8f8b-4d90-bdd9-925f6b7b19c2",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "vVergleichsszenario",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "tags": []
+}

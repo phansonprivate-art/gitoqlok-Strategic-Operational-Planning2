@@ -1,0 +1,27 @@
+{
+  "qInfo": {
+    "qId": "cLADuyw",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "HG_Name1"
+    ],
+    "qFieldLabels": [
+      "Hauptgruppe"
+    ],
+    "qAlias": "Hauptgruppe",
+    "qOrigin": "PROGRAM",
+    "title": "Hauptgruppe",
+    "coloring": {
+      "changeHash": "0.7054766940816057",
+      "hasValueColors": false
+    }
+  },
+  "qMetaDef": {
+    "title": "Hauptgruppe",
+    "description": "",
+    "tags": []
+  }
+}

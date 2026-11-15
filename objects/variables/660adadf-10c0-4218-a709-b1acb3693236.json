@@ -1,0 +1,15 @@
+{
+  "qInfo": {
+    "qId": "660adadf-10c0-4218-a709-b1acb3693236",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "vDimZeit_Input",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "qDefinition": "Year|Quarter|Month|Week|Day",
+  "qIsScriptCreated": true
+}

@@ -1,0 +1,30 @@
+{
+  "qInfo": {
+    "qId": "aednFP",
+    "qType": "measure"
+  },
+  "qMeasure": {
+    "qLabel": "#Positions",
+    "qDef": "count( PosID)",
+    "qGrouping": "N",
+    "qExpressions": [],
+    "qActiveExpression": 0,
+    "qNumFormat": {
+      "qType": "F",
+      "qnDec": 2,
+      "qUseThou": 0,
+      "qFmt": "#.##0",
+      "qDec": ",",
+      "qThou": "."
+    },
+    "qOrigin": "PROGRAM",
+    "isCustomFormatted": false,
+    "numFormatFromTemplate": true,
+    "coloring": {}
+  },
+  "qMetaDef": {
+    "title": "#Positions",
+    "description": "",
+    "tags": []
+  }
+}

@@ -1,0 +1,708 @@
+[
+  {
+    "qName": "%Date",
+    "qTags": [
+      "$key",
+      "$numeric",
+      "$integer",
+      "$timestamp",
+      "$date"
+    ],
+    "qSrcTables": [
+      "Facts",
+      "Calendar"
+    ]
+  },
+  {
+    "qName": "ArticleID",
+    "qTags": [
+      "$numeric",
+      "$integer",
+      "$keypart"
+    ],
+    "qSrcTables": [
+      "Facts",
+      "Comparison"
+    ]
+  },
+  {
+    "qName": "ArticleID_Name",
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "Facts"
+    ]
+  },
+  {
+    "qName": "ColorProductType",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "ProductType"
+    ]
+  },
+  {
+    "qName": "ColorRegion",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Region"
+    ]
+  },
+  {
+    "qName": "Date",
+    "qTags": [
+      "$numeric",
+      "$integer",
+      "$timestamp",
+      "$date"
+    ],
+    "qSrcTables": [
+      "Calendar"
+    ]
+  },
+  {
+    "qName": "DatePlan",
+    "qTags": [
+      "$numeric",
+      "$integer",
+      "$timestamp",
+      "$date"
+    ],
+    "qSrcTables": [
+      "Planning"
+    ]
+  },
+  {
+    "qName": "Day",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Calendar"
+    ]
+  },
+  {
+    "qName": "InvoiceNo",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Facts"
+    ]
+  },
+  {
+    "qName": "ML_ID",
+    "qTags": [
+      "$key",
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "SHAP",
+      "Sarstedt_Apply"
+    ]
+  },
+  {
+    "qName": "Month",
+    "qTags": [
+      "$numeric",
+      "$integer",
+      "$timestamp",
+      "$date"
+    ],
+    "qSrcTables": [
+      "Calendar"
+    ]
+  },
+  {
+    "qName": "MonthPlan",
+    "qTags": [
+      "$numeric",
+      "$integer",
+      "$timestamp",
+      "$date"
+    ],
+    "qSrcTables": [
+      "Planning"
+    ]
+  },
+  {
+    "qName": "Monthname",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Calendar"
+    ]
+  },
+  {
+    "qName": "Name_Comparison",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Comparison"
+    ]
+  },
+  {
+    "qName": "PlanMonth",
+    "qTags": [
+      "$numeric",
+      "$integer",
+      "$timestamp",
+      "$date"
+    ],
+    "qSrcTables": [
+      "Facts"
+    ]
+  },
+  {
+    "qName": "PlanType",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Facts"
+    ]
+  },
+  {
+    "qName": "PlanYear",
+    "qTags": [
+      "$numeric",
+      "$integer",
+      "$keypart"
+    ],
+    "qSrcTables": [
+      "Facts",
+      "Comparison"
+    ]
+  },
+  {
+    "qName": "Plandate",
+    "qTags": [
+      "$numeric",
+      "$integer",
+      "$timestamp",
+      "$date"
+    ],
+    "qSrcTables": [
+      "Facts"
+    ]
+  },
+  {
+    "qName": "PosID",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Facts"
+    ]
+  },
+  {
+    "qName": "ProductType",
+    "qTags": [
+      "$key",
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "ProductType",
+      "Facts"
+    ]
+  },
+  {
+    "qName": "ProductTypeID",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "ProductType"
+    ]
+  },
+  {
+    "qName": "ProductType_Region",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Facts"
+    ]
+  },
+  {
+    "qName": "ProductType_Region_Month",
+    "qTags": [
+      "$ascii",
+      "$text",
+      "$keypart"
+    ],
+    "qSrcTables": [
+      "Facts",
+      "Comparison"
+    ]
+  },
+  {
+    "qName": "ProductType_Region_PlanMonth",
+    "qTags": [
+      "$key",
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Facts",
+      "Strategic_Planning",
+      "Sarstedt_Apply"
+    ]
+  },
+  {
+    "qName": "Quantity",
+    "qTags": [
+      "$numeric"
+    ],
+    "qSrcTables": [
+      "Facts"
+    ]
+  },
+  {
+    "qName": "Quantity_Comparison",
+    "qTags": [
+      "$numeric"
+    ],
+    "qSrcTables": [
+      "Comparison"
+    ]
+  },
+  {
+    "qName": "Quarter",
+    "qTags": [
+      "$numeric",
+      "$integer",
+      "$timestamp",
+      "$date"
+    ],
+    "qSrcTables": [
+      "Calendar"
+    ]
+  },
+  {
+    "qName": "Quartername",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Calendar"
+    ]
+  },
+  {
+    "qName": "Region",
+    "qTags": [
+      "$key",
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Region",
+      "Facts"
+    ]
+  },
+  {
+    "qName": "RegionID",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Region"
+    ]
+  },
+  {
+    "qName": "SHAP_Feature",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "SHAP"
+    ]
+  },
+  {
+    "qName": "SHAP_Value",
+    "qTags": [
+      "$numeric"
+    ],
+    "qSrcTables": [
+      "SHAP"
+    ]
+  },
+  {
+    "qName": "Sales",
+    "qTags": [
+      "$numeric"
+    ],
+    "qSrcTables": [
+      "Facts"
+    ]
+  },
+  {
+    "qName": "SalesType",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Facts"
+    ]
+  },
+  {
+    "qName": "Sales_Comparison",
+    "qTags": [
+      "$numeric"
+    ],
+    "qSrcTables": [
+      "Comparison"
+    ]
+  },
+  {
+    "qName": "Sales_Strategic_Planning",
+    "qTags": [
+      "$numeric"
+    ],
+    "qSrcTables": [
+      "Strategic_Planning"
+    ]
+  },
+  {
+    "qName": "ScenarioID_Description",
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "planning_scenarios"
+    ]
+  },
+  {
+    "qName": "ScenarioID_Strategic_Planning",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Strategic_Planning"
+    ]
+  },
+  {
+    "qName": "Scenario_ID",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "planning_scenarios"
+    ]
+  },
+  {
+    "qName": "Status",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Facts"
+    ]
+  },
+  {
+    "qName": "Week",
+    "qTags": [
+      "$numeric",
+      "$integer",
+      "$timestamp",
+      "$date"
+    ],
+    "qSrcTables": [
+      "Calendar"
+    ]
+  },
+  {
+    "qName": "Weekday",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Calendar"
+    ]
+  },
+  {
+    "qName": "Weeknumber",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Calendar"
+    ]
+  },
+  {
+    "qName": "Year",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Calendar"
+    ]
+  },
+  {
+    "qName": "YearPlan",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Planning"
+    ]
+  },
+  {
+    "qName": "Year_Comparison",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Comparison"
+    ]
+  },
+  {
+    "qName": "_D",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Calendar"
+    ]
+  },
+  {
+    "qName": "_Hide",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Planning"
+    ]
+  },
+  {
+    "qName": "_J",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Calendar"
+    ]
+  },
+  {
+    "qName": "_M",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Calendar"
+    ]
+  },
+  {
+    "qName": "_Q",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Calendar"
+    ]
+  },
+  {
+    "qName": "_W",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Calendar"
+    ]
+  },
+  {
+    "qName": "_today_day",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Calendar"
+    ]
+  },
+  {
+    "qName": "_today_month",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Calendar"
+    ]
+  },
+  {
+    "qName": "_today_quarter",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Calendar"
+    ]
+  },
+  {
+    "qName": "_today_week",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Calendar"
+    ]
+  },
+  {
+    "qName": "_today_year",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Calendar"
+    ]
+  },
+  {
+    "qName": "block_product_types",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "planning_scenarios"
+    ]
+  },
+  {
+    "qName": "block_regions",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "planning_scenarios"
+    ]
+  },
+  {
+    "qName": "delete",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "planning_scenarios"
+    ]
+  },
+  {
+    "qName": "description",
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "planning_scenarios"
+    ]
+  },
+  {
+    "qName": "freeze",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "planning_scenarios"
+    ]
+  },
+  {
+    "qName": "prediction",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Sarstedt_Apply"
+    ]
+  },
+  {
+    "qName": "sales",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Facts"
+    ]
+  },
+  {
+    "qName": "scenario",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "Facts"
+    ]
+  },
+  {
+    "qName": "scenario_id",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "Facts"
+    ]
+  },
+  {
+    "qName": "year_end",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "planning_scenarios"
+    ]
+  },
+  {
+    "qName": "year_start",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "planning_scenarios"
+    ]
+  }
+]

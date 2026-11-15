@@ -1,0 +1,16 @@
+{
+  "qInfo": {
+    "qId": "2ea78744-64f9-47fd-9496-b5e6cd78c027",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "vVerteilung",
+  "qComment": "1 = Gleichverteilung, 2 = Prozentuale Verteilung",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "qDefinition": "1",
+  "tags": []
+}

@@ -1,0 +1,15 @@
+{
+  "qInfo": {
+    "qId": "cea50702-f1a9-4934-8d23-bbf8980d3d19",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "vFarbe",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "qDefinition": "rgb(200,16,46)",
+  "tags": []
+}

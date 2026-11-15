@@ -1,0 +1,15 @@
+{
+  "qInfo": {
+    "qId": "4a89eacf-e1b5-4560-91af-87fc71f7db98",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "vKalenderAufheben",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "qDefinition": "=Concat( {$<$Table={'Kalender'}>} $Field, '=,') & '='",
+  "qIsScriptCreated": true
+}

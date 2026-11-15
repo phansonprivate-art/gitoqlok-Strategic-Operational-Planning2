@@ -1,0 +1,14 @@
+{
+  "qInfo": {
+    "qId": "f854acc2-ec29-40f1-88e0-bbe19a254296",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "vPlanungsart",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "tags": []
+}

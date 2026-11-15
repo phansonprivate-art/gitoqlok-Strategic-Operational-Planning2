@@ -1,0 +1,34 @@
+[
+  {
+    "qProperty": {
+      "qInfo": {
+        "qId": "f7d6765f-d847-4c3c-9e7a-fd0f45ef9283",
+        "qType": "appprops"
+      },
+      "qMetaDef": {},
+      "sheetTitleBgColor": {
+        "color": "none",
+        "index": 0
+      },
+      "sheetTitleGradientColor": {
+        "color": "none",
+        "index": 0
+      },
+      "sheetTitleColor": "#ffffff",
+      "sheetLogoThumbnail": {
+        "qStaticContentUrlDef": {
+          "qUrl": "/api/v1/apps/3ef7b76b-91d3-46ac-87ae-8718d4232648/media/files/leitart_logo_grau.png"
+        }
+      },
+      "sheetLogoPosition": "",
+      "rtl": false,
+      "theme": "LeitArt Theme",
+      "disableCellNavMenu": true,
+      "chartAnimations": true,
+      "defaultBookmarkId": "1aa5f9a2-108f-4dd1-9d54-4b99ae108596",
+      "presets": [],
+      "activePreset": "default"
+    },
+    "qChildren": []
+  }
+]

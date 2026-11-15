@@ -1,0 +1,15 @@
+{
+  "qInfo": {
+    "qId": "265997fc-2c16-489f-9e4d-93d356dcbf3b",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "vEnd",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "qDefinition": "31.12.2029",
+  "qIsScriptCreated": true
+}
